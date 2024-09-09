@@ -9,6 +9,7 @@ import { useTitle } from "../Hooks/useTitle";
      const queryTerm =searchParams.get('q');
       const { data:movies } = useFetch (apiPath,queryTerm);
 
+      //eslint-disable-next-line
      const pageTitle = useTitle(title) ;
      
 

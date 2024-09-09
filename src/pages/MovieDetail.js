@@ -11,7 +11,7 @@ export const MovieDetail = ({title}) => {
     ? `https://image.tmdb.org/t/p/w500/${movie.poster_path}`
     : Backup;
 
-   
+   //eslint-disable-next-line
   const pageTitle = useTitle(movie.title) ;
 
 
