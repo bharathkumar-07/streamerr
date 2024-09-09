@@ -1,9 +1,5 @@
-import { Header } from "./Header";
-import { Footer } from "./Footer";
-import { Card } from "./Card";
+export { Header } from "./Header";
+export { Footer } from "./Footer";
+export { Card } from "./Card";
+export { Button } from "./Button";
 
-export const index = () => {
-  return (
-    <div>index</div>
-  )
-}
