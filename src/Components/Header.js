@@ -34,7 +34,7 @@ const handleSubmit = (event) =>{
 
   return (
     <header>
-      <nav className=" border-gray-200 py-2 dark:bg-gray-900 dark:border-b-1 dark:barder-gray-900">
+      <nav className=" bg-white border-b-2 border-gray-200 px-2 sm:px-4 py-2 dark:bg-gray-900 dark:border-b-1 dark:border-gray-900">
           <div className=" flex flex-wrap items-center justify-between   mx-10">
             <Link
               to="/"
