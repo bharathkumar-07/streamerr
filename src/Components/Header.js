@@ -46,7 +46,7 @@ const handleSubmit = (event) =>{
                 alt="Streamerr Logo"
               />
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-                Streamerr
+                Streamerrzz
               </span>
             </Link>
 
